@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+Nova88 - Sân Chơi Game Đa Dạng và Tính Bảo Mật Cao
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Nova88 <https://nova88.cyou/>`_ là một sân chơi trực tuyến mới nổi tại Việt Nam, vận hành bởi Monarch Innovative Labs Limited từ Costa Rica, được cấp phép bởi Ủy ban trò chơi Tobique. Nova88 thu hút người chơi nhờ tính bảo mật cao, tỷ lệ cược hấp dẫn và kho game đa dạng từ các nhà cung cấp uy tín. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Các trò chơi nổi bật như blackjack, roulette, sicbo, baccarat với giao diện dễ sử dụng mang lại trải nghiệm mượt mà. Nova88 còn hợp tác với các đội bóng lớn như Aston Villa và Inter Milan, khẳng định tiềm lực tài chính mạnh mẽ. Người chơi cũng có cơ hội tham gia các chương trình khuyến mãi và thanh toán đa dạng.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 145 Hồ Học Lãm, An Lạc, Bình Tân, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0848587790. 
 
-.. toctree::
+Email: info@nova88.cyou. 
 
-   usage
-   api
+Website: https://nova88.cyou/
+
+#nova88 #trangchunova88 #dangkynova88 #dangnhapnova88 #linknova88
